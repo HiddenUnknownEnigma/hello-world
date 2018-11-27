@@ -1,3 +1,3 @@
 # hello-world
-Introductory repository to learn github
+Introductory repository to learn github.
 Hello, world!  I hope I can make great use of GitHub during my career!  Hehe.....
